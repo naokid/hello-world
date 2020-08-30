@@ -1,5 +1,5 @@
 # hello-world
 tutorial
 
-hoge.
-fuga.
+* hoge.
+* fuga.
